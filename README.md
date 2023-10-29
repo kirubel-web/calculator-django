@@ -14,13 +14,13 @@ Welcome to the Django Calculator app! This simple calculator application is buil
 1. Clone the repository:
 
    ````bash
-   git clone https://github.com/your-username/django-calculator.git
+   git clone https://github.com/kirubel-web/calculator-django.git
    ```
 
 2. Navigate to the project directory:
 
    ````bash
-   cd django-calculator
+   cd calculator-django
    ```
 
 3. Create and activate a virtual environment (optional but recommended):
